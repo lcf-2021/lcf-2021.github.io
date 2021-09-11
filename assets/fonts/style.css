@@ -1,5 +1,15 @@
 @font-face {
+   font-family: 'LC Pukara Black';
+   font-display: swap;
+   src: url('LC Pukara Black/font.ttf');
+}
+@font-face {
    font-family: 'Covik Sans Mono';
    font-display: swap;
    src: url('Covik Sans Mono/font.ttf');
+}
+@font-face {
+   font-family: 'Basic Sans Regular';
+   font-display: swap;
+   src: url('Basic Sans Regular/font.ttf');
 }
