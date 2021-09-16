@@ -947,4 +947,6 @@ blockquote {
 	left: -2400px;
 }.text-black{
   color: #000000 !important;
+}.border-05 {
+  border-width: 0.5px!important;
 }
