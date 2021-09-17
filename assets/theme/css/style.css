@@ -949,4 +949,6 @@ blockquote {
   color: #000000 !important;
 }.border-05 {
   border-width: 0.5px!important;
+}.text-red{
+  color: #dc3545 !important;
 }
