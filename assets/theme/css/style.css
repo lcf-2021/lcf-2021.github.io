@@ -945,10 +945,4 @@ blockquote {
 	padding: 0;
 	top: 0;
 	left: -2400px;
-}.text-black{
-  color: #000000 !important;
-}.border-05 {
-  border-width: 0.5px!important;
-}.text-red{
-  color: #dc3545 !important;
 }
